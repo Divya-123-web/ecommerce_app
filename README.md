@@ -95,3 +95,7 @@ ShopEasy is a demonstration project developed for learning and portfolio purpose
 ---
 
 ⭐ If you find this project useful, feel free to explore the repository!
+## 📲 Download APK
+
+[Download ShopEasy Android App v1.0.0](https://github.com/Divya-123-web/ecommerce_app/releases/tag/v1.0.0)
+
